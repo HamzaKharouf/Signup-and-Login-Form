@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|c:\\users\\kharo\\downloads\\internship (summer 24)\\signupandlogin\\signup\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\dbaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|c:\\users\\kharo\\downloads\\internship (summer 24)\\signupandlogin\\signup\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|c:\\users\\kharo\\downloads\\internship (summer 24)\\signupandlogin\\signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|c:\\users\\kharo\\downloads\\internship (summer 24)\\signupandlogin\\signup\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\signup\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\signup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|c:\\users\\kharo\\downloads\\internship (summer 24)\\signupandlogin\\signup\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\homepage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|c:\\users\\kharo\\downloads\\internship (summer 24)\\signupandlogin\\signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|c:\\users\\kharo\\downloads\\internship (summer 24)\\signupandlogin\\signup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADD61D1-3477-492D-989F-7A02D392E923}|SignUp\\SignUp.csproj|solutionrelative:signup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp\\SignUp.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\SignUp.cs",
+              "RelativeToolTip": "SignUp\\SignUp.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:01:43Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\HomePage.cs",
+              "RelativeDocumentMoniker": "SignUp\\HomePage.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\HomePage.cs",
+              "RelativeToolTip": "SignUp\\HomePage.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:56:06.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\Login.cs",
+              "RelativeDocumentMoniker": "SignUp\\Login.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUp\\SignUp\\Login.cs [Design]",
+              "RelativeToolTip": "..\\SignUp\\SignUp\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:34:00.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp\\SignUp.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUp\\SignUp\\SignUp.cs [Design]",
+              "RelativeToolTip": "..\\SignUp\\SignUp\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:00:36.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\Program.cs",
+              "RelativeDocumentMoniker": "SignUp\\Program.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\Program.cs",
+              "RelativeToolTip": "SignUp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:27:51.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "SignUp\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\Login.Designer.cs",
+              "RelativeToolTip": "SignUp\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:35:41.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBAccess.cs",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\DBAccess.cs",
+              "RelativeDocumentMoniker": "SignUp\\DBAccess.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\DBAccess.cs",
+              "RelativeToolTip": "SignUp\\DBAccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:04:55.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\Login.cs",
+              "RelativeDocumentMoniker": "SignUp\\Login.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\Login.cs",
+              "RelativeToolTip": "SignUp\\Login.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCYAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T09:35:11.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\HomePage.Designer.cs",
+              "RelativeDocumentMoniker": "SignUp\\HomePage.Designer.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\HomePage.Designer.cs",
+              "RelativeToolTip": "SignUp\\HomePage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:40:02.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUpANDLogin\\SignUp\\HomePage.cs",
+              "RelativeDocumentMoniker": "SignUp\\HomePage.cs",
+              "ToolTip": "C:\\Users\\kharo\\Downloads\\Internship (Summer 24)\\SignUp\\SignUp\\HomePage.cs [Design]",
+              "RelativeToolTip": "..\\SignUp\\SignUp\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:43:25.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
